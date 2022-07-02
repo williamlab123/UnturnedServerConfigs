@@ -1,0 +1,5 @@
+To create or change a workshop you modify the bundles.
+
+For example, you want that the cars in your server have more life, you can do that by 2 ways, modifying the bundles or go to config file and change by there
+(i recomend this one.) In the config file you will determinate several stuff, like how many zombies will spawn, if my structures resistence, etc. Be patiente and 
+watchfull while doing this.
