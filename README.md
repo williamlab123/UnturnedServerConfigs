@@ -2,7 +2,7 @@
 This is written in 2 languagens, English and Portuguese, for read in portuguese please jump untill you see -----PORTUGUESE------
 ###############################################################################################################################
 
-I recommend see in Raw.
+I recommend to read in raw.
 
 First, to create your server you will follow this steps: https://github.com/SmartlyDressedGames/U3-Docs/blob/master/ServerHosting.md#Server-Hosting
 After that, you will have a vanilla server without any plugin or customization. To fix that you will download uEssentials: https://imperialplugins.com/Uncategorized/Products/uEssentials
