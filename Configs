@@ -1,0 +1,19 @@
+To add an icon in your server:
+Example:
+
+"Icon": "https://imagepng.org/wp-content/uploads/2017/04/bandeira-do-brasil.png",
+    "Thumbnail": "https://imagepng.org/wp-content/uploads/2017/04/bandeira-do-brasil.png",
+    
+    You have to use a online imagem and it has to be .png.
+    
+    To add description:
+    
+    "Desc_Hint": "",
+    "Desc_Full": ""
+    
+    
+    Login Token:
+    https://steamcommunity.com/dev/managegameservers
+    
+    
+    
